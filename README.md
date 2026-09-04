@@ -29,6 +29,7 @@
 [`▸ ACHIEVEMENTS`](#-achievements) &nbsp;|&nbsp;
 [`▸ PROJECTS`](#-project-database) &nbsp;|&nbsp;
 [`▸ STATS`](#-developer-rpg-stats) &nbsp;|&nbsp;
+[`▸ LAUNCH`](#-launch-sequence) &nbsp;|&nbsp;
 [`▸ CONTACT`](#-communication-terminal)
 
 </div>
@@ -519,6 +520,20 @@ Contribute to open-source projects and give back to the developer community.
 
 ---
 
+## 🚀 LAUNCH SEQUENCE
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=600&color=FFB86C&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=90&lines=%3E+Fueling+engines...;%3E+T-minus+3...+2...+1...;%3E+IGNITION+CONFIRMED+-+LIFTOFF" alt="countdown" />
+
+<img src="./assets/rocket-launch.svg" width="100%" alt="Animated rocket lifting off a pad through a starfield, looping" />
+
+<sub>A looping, self-contained SVG — no JavaScript, so it plays anywhere GitHub renders images. Commit <code>assets/rocket-launch.svg</code> in the same repo as this README (a plain <code>assets/</code> folder next to <code>README.md</code> works) so it renders below instead of showing a broken-image icon.</sub>
+
+</div>
+
+---
+
 ## 📈 GITHUB COMMAND CENTER
 
 <div align="center">
@@ -610,6 +625,10 @@ const developer = {
   YOUR_PROJECT_STATUS_1/2/3      → e.g. Active / Completed / WIP
   YOUR_PROJECT_LINK_1/2/3        → real repository URLs
   YOUR_PROJECT_DEMO_1/2/3        → real live demo URLs
+  assets/rocket-launch.svg  → provided alongside this README;
+                              commit it into an `assets/` folder
+                              next to README.md so the Launch
+                              Sequence animation renders on GitHub
 ═══════════════════════════════════════════════════════════════
 -->
 
