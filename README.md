@@ -1,53 +1,51 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                          HERO                                  -->
-
+<!--                         SYSTEM UPLINK                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1220,100:00e5ff&height=250&section=header&text=Jhon%20Brayn%20Rafer&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a0520,100:00e5ff&height=250&section=header&text=Jhon%20Brayn%20Rafer&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=CYBERNETIC%20ARCHITECT%20%7C%20SYSTEMS%20ENGINEER%20%7C%20PROBLEM%20SOLVER&descAlignY=60&descSize=16&animation=fadeIn"
 width="100%"
 />
 
 <br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Building+useful+things.;Turning+ideas+into+working+software.;Full-Stack+%7C+Backend+%7C+Systems;Learning+in+public.;Build.+Learn.+Improve.+Ship."
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Uplink+established.;Compiling+digital+constructs...;Full-Stack+%7C+Backend+%7C+Neural+Nets;Running+learning_protocols.exe...;Build.+Automate.+Iterate.+Deploy."
 alt="Typing animation"
 />
 
 <br/><br/>
 
 <a href="https://github.com/hideandseeksa">
-  <img src="https://img.shields.io/badge/GitHub-hideshow-050505?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=050505&color=00F5FF"/>
+  <img src="https://img.shields.io/badge/UPLINK_NODE-050505?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=050505&color=00F5FF"/>
 </a>
 
 <a href="https://github.com/hideandseeksa?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-050505?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=050505&color=00F5FF"/>
+  <img src="https://img.shields.io/badge/DATABANKS-050505?style=for-the-badge&logo=databricks&logoColor=00F5FF&labelColor=050505&color=00F5FF"/>
 </a>
 
 <img
-src="https://komarev.com/ghpvc/?username=hideandseeksa&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS"
+src="https://komarev.com/ghpvc/?username=hideandseeksa&style=for-the-badge&color=00F5FF&label=OPTICAL+SENSORS+TRIGGERED"
 alt="Profile views"
 />
 
 <br/><br/>
 
 ```text
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│       BUILDING USEFUL THINGS AND LEARNING IN PUBLIC.       │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
+╔═════════════════════════════════════════════════════════════╗
+║                                                             ║
+║     > ARCHITECTING USEFUL SYSTEMS AND LEARNING IN PUBLIC    ║
+║                                                             ║
+╚═════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-# `01` // SYSTEM PROFILE
+**`[01]` // ENTITY_PROFILE.SYS**
 
 <div align="center">
 
@@ -55,43 +53,37 @@ alt="Profile views"
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 IDENTITY
+### 👤 BIOMETRIC ID
 
-```text
-NAME
-└─ Jhon Brayn Rafer
-
-ROLE
-└─ Freelance Developer / Consultant
-
-FOCUS
-└─ Full-Stack
-└─ Backend
-└─ Systems
-└─ Automation
-
-APPROACH
-└─ Build → Test → Improve → Ship
+```yaml
+DESIGNATION: Jhon Brayn Rafer
+CLASS: Freelance Developer / Consultant
+SPECIALIZATION:
+  - Full-Stack Web Protocols
+  - Backend Architectures
+  - Systems Networking
+  - Automated Workflows
+DIRECTIVE:
+  - Build -> Test -> Optimize -> Deploy
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚡ CURRENT STATUS
+### 🔋 NEURAL CORE STATUS
 
 ```text
-SYSTEM STATUS
+SYSTEM RESOURCES
 
-████████████████████░░  BUILDING
+████████████████████░░  COMPILING...
 
-[✓] Learning
-[✓] Experimenting
-[✓] Developing
-[✓] Improving
-[✓] Shipping
+[✓] Data Ingestion (Learning)
+[✓] Prototype Synthesis
+[✓] Logic Optimization
+[✓] Orbital Deployment
 
-STATUS → ONLINE
+STATUS: [ ONLINE & SYNCED ]
 ```
 
 </td>
@@ -100,52 +92,38 @@ STATUS → ONLINE
 
 </div>
 
-> **Small, useful work over vague claims.**
-
-I enjoy turning practical problems into software that people can actually use.
-
-My projects span web applications, APIs, databases, networking tools, automation, developer tooling, and experiments with local AI.
-
-```diff
-+ Building practical software
-+ Exploring new technologies
-+ Learning through real projects
-+ Improving systems one iteration at a time
-```
+> **Optimized functions over bloated subroutines.**
+Deploying practical algorithms to solve real-world anomalies. My databanks cover web applications, APIs, database architectures, network reconnaissance, and local AI integrations.
 
 ---
 
-# `02` // TECH STACK
+**`[02]` // ARSENAL & FRAMEWORKS**
 
 <div align="center">
 
-## LANGUAGES
-
+### SYNTAX PROTOCOLS
 <img src="https://skillicons.dev/icons?i=ts,js,python,cs,html,css" />
 
 <br/><br/>
 
-## FRAMEWORKS & RUNTIME
-
+### RUNTIME ENGINES
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,dotnet" />
 
 <br/><br/>
 
-## DATABASE & INFRASTRUCTURE
-
+### INFRASTRUCTURE & STORAGE
 <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,git,github" />
 
 <br/><br/>
 
-## TOOLS
-
+### TACTICAL GEAR
 <img src="https://skillicons.dev/icons?i=vscode,linux,ubuntu,vercel" />
 
 </div>
 
 ---
 
-# `03` // SELECTED WORK
+**`[03]` // DEPLOYED CONSTRUCTS**
 
 <div align="center">
 
@@ -154,10 +132,10 @@ My projects span web applications, APIs, databases, networking tools, automation
 
 <td width="50%" valign="top">
 
-<h3>◈ hideANDseeksA</h3>
+### ◈ hideANDseeksA
 
 <p>
-Developer profile and open-source workspace.
+Core developer profile and open-source operations terminal.
 </p>
 
 <img src="https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript&logoColor=00F5FF"/>
@@ -167,17 +145,17 @@ Developer profile and open-source workspace.
 <br/><br/>
 
 <a href="https://github.com/hideANDseeksA/hideANDseeksA">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=050505"/>
+<img src="https://img.shields.io/badge/ACCESS_DATABANK-00F5FF?style=for-the-badge&logo=github&logoColor=050505"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>◈ Penro-next</h3>
+### ◈ Penro-next
 
 <p>
-A TypeScript-based application focused on building a modern web experience.
+Next-gen web interface engineered for optimal user telemetry.
 </p>
 
 <img src="https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript&logoColor=00F5FF"/>
@@ -186,7 +164,7 @@ A TypeScript-based application focused on building a modern web experience.
 <br/><br/>
 
 <a href="https://github.com/hideANDseeksA/Penro-next">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=050505"/>
+<img src="https://img.shields.io/badge/ACCESS_DATABANK-00F5FF?style=for-the-badge&logo=github&logoColor=050505"/>
 </a>
 
 </td>
@@ -197,10 +175,10 @@ A TypeScript-based application focused on building a modern web experience.
 
 <td width="50%" valign="top">
 
-<h3>◈ penro</h3>
+### ◈ penro
 
 <p>
-Python-based project and experimentation workspace.
+Algorithmic experimentation workspace and Python sandbox.
 </p>
 
 <img src="https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=00F5FF"/>
@@ -208,17 +186,17 @@ Python-based project and experimentation workspace.
 <br/><br/>
 
 <a href="https://github.com/hideANDseeksA/penro">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=050505"/>
+<img src="https://img.shields.io/badge/ACCESS_DATABANK-00F5FF?style=for-the-badge&logo=github&logoColor=050505"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>◈ advance-ip-scanner</h3>
+### ◈ advance-ip-scanner
 
 <p>
-Network scanning and device discovery project.
+Network reconnaissance and device discovery array.
 </p>
 
 <img src="https://img.shields.io/badge/C%23-050505?style=flat-square&logo=csharp&logoColor=00F5FF"/>
@@ -228,7 +206,7 @@ Network scanning and device discovery project.
 <br/><br/>
 
 <a href="https://github.com/hideANDseeksA/advance-ip-scanner">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=050505"/>
+<img src="https://img.shields.io/badge/ACCESS_DATABANK-00F5FF?style=for-the-badge&logo=github&logoColor=050505"/>
 </a>
 
 </td>
@@ -240,7 +218,7 @@ Network scanning and device discovery project.
 
 ---
 
-# `04` // GITHUB ACTIVITY
+**`[04]` // TELEMETRY & STATS**
 
 <div align="center">
 
@@ -248,7 +226,6 @@ Network scanning and device discovery project.
 src="https://github-readme-stats.vercel.app/api?username=hideandseeksa&show_icons=true&hide_border=true&bg_color=050505&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9&ring_color=00F5FF"
 height="180"
 />
-
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hideandseeksa&layout=compact&hide_border=true&bg_color=050505&title_color=00F5FF&text_color=C9D1D9"
 height="180"
@@ -265,7 +242,7 @@ width="70%"
 
 ---
 
-# `05` // CONTRIBUTION MATRIX
+**`[05]` // CHRONO-ACTIVITY MATRIX**
 
 <div align="center">
 
@@ -279,7 +256,41 @@ alt="GitHub contribution snake"
 
 ---
 
-# `06` // CURRENTLY BUILDING
+**`[06]` // ORBITAL DEFENSE MINIGAME**
+
+<div align="center">
+
+```text
+╔═════════════════════════════════════════════════════════════════════════╗
+║ [!] WARNING: INCOMING BUG SWARM DETECTED IN SECTOR 7G                   ║
+║  SCORE: 094,200    WAVE: 42    SHIELDS: [████████░░] 80%    LASER: RDY  ║
+╠═════════════════════════════════════════════════════════════════════════╣
+║                                                                         ║
+║       (👾)           (👾)                 (👾)                 (👾)     ║
+║               (👾)                                  (👾)                ║
+║                                  (👾)                                   ║
+║                                                                         ║
+║        *                  |                  *                 *        ║
+║                           |                                             ║
+║                          / \                                            ║
+║                         / 0 \                                           ║
+║                        |  1  |                                          ║
+║                       /|  0  |\                                         ║
+║                      / |__1__| \                                        ║
+║                     /__/  V  \__\                                       ║
+║                          \|/                                            ║
+║                           V                                             ║
+║                                                                         ║
+║> COMMAND_LINE: STANDBY...                                               ║
+║> INSERT COIN TO INITIALIZE PROTOCOL...                                  ║
+╚═════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+**`[07]` // ACTIVE SYNTHESIS**
 
 <div align="center">
 
@@ -288,22 +299,21 @@ alt="GitHub contribution snake"
 <td width="100%">
 
 ```text
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│  > SOFTWARE DEVELOPMENT                                    │
-│                                                             │
-│  ████████████████████████████████░░░░░░  BUILDING         │
-│                                                             │
-│  EXPLORING                                                  │
-│                                                             │
-│  → Full-stack applications                                  │
-│  → REST APIs & backend systems                              │
-│  → PostgreSQL / MySQL architecture                          │
-│  → Networking & infrastructure                              │
-│  → Local AI / LLM experimentation                            │
-│  → Automation & developer tooling                           │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
+╔═════════════════════════════════════════════════════════════╗
+║                                                             ║
+║  > EXECUTING: SOFTWARE_DEVELOPMENT.SH                       ║
+║                                                             ║
+║  ████████████████████████████████░░░░░░  COMPILING CORE     ║
+║                                                             ║
+║  [CURRENT TARGETS]                                          ║
+║  → Full-stack digital environments                          ║
+║  → REST APIs & asynchronous backend systems                 ║
+║  → PostgreSQL / MySQL database architecture                 ║
+║  → Networking & node infrastructure                         ║
+║  → Local AI / LLM neural net integrations                   ║
+║  → Automated pipelines & developer tooling                  ║
+║                                                             ║
+╚═════════════════════════════════════════════════════════════╝
 ```
 
 </td>
@@ -314,7 +324,7 @@ alt="GitHub contribution snake"
 
 ---
 
-# `07` // DEVELOPMENT PHILOSOPHY
+**`[08]` // OPERATING DIRECTIVES**
 
 <div align="center">
 
@@ -325,48 +335,36 @@ alt="GitHub contribution snake"
 <td width="25%" align="center">
 
 ### `01`
-
-# ◇
-
-### BUILD
-
-Start with a real problem.
+# ⟡
+### INITIALIZE
+Lock onto a core problem.
 
 </td>
 
 <td width="25%" align="center">
 
 ### `02`
-
-# ◇
-
-### LEARN
-
-Understand how it works.
+# ⟡
+### DECODE
+Deconstruct the logic.
 
 </td>
 
 <td width="25%" align="center">
 
 ### `03`
-
-# ◇
-
-### IMPROVE
-
-Remove unnecessary complexity.
+# ⟡
+### REFINE
+Purge obsolete code.
 
 </td>
 
 <td width="25%" align="center">
 
 ### `04`
-
-# ◇
-
-### SHIP
-
-Make something useful.
+# ⟡
+### DEPLOY
+Launch the solution.
 
 </td>
 
@@ -378,31 +376,31 @@ Make something useful.
 
 ---
 
-# `08` // TERMINAL
+**`[09]` // SECURE TERMINAL**
 
 <div align="center">
 
-```text
+```bash
 ╭─────────────────────────────────────────────────────────────╮
-│  ● ● ●                                                     │
+│  root@hideANDseeksA:~#                                      │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  $ whoami                                                   │
 │                                                             │
-│  jhon-brayn-rafer                                           │
+│  jhon-brayn-rafer_                                          │
 │                                                             │
-│  $ ./current_status                                         │
+│  $ ./sys_status --verbose                                   │
 │                                                             │
-│  [✓] learning                                               │
-│  [✓] building                                               │
-│  [✓] experimenting                                          │
-│  [✓] shipping                                               │
+│  [OK] neural_learning_module ... ACTIVE                     │
+│  [OK] system_build_phase ....... IN PROGRESS                │
+│  [OK] prototype_testing ........ STABLE                     │
+│  [OK] orbital_deployment ....... STANDBY                    │
 │                                                             │
-│  $ echo $NEXT_PROJECT                                       │
+│  $ echo $NEXT_DIRECTIVE                                     │
 │                                                             │
-│  something_useful                                           │
+│  build_something_useful.exe                                 │
 │                                                             │
-│  $ _                                                        │
+│  $ █                                                        │
 │                                                             │
 ╰─────────────────────────────────────────────────────────────╯
 ```
@@ -411,55 +409,19 @@ Make something useful.
 
 ---
 
-# `09` // THE LOOP
-
-<div align="center">
-
-```text
-              ┌─────────────┐
-              │    IDEA     │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    BUILD    │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    TEST     │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │   IMPROVE   │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │    SHIP     │
-              └──────┬──────┘
-                     │
-                     └──────────────→ REPEAT
-```
-
-</div>
-
----
-
-# `10` // GITHUB
-
 <div align="center">
 
 <a href="https://github.com/hideandseeksa">
-
 <img
-src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-050505?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=050505&color=00F5FF"
+src="https://img.shields.io/badge/INITIALIZE_HANDSHAKE-050505?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=050505&color=00F5FF"
 alt="Explore GitHub"
 />
-
 </a>
 
 <br/><br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Ideas+are+cheap.+Working+software+isn't.;Build+something.+Break+something.+Learn.;Keep+moving+forward."
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Code+is+cheap.+Working+systems+are+gold.;Compile.+Debug.+Overcome.;End+of+transmission."
 alt="Closing animation"
 />
 
@@ -470,13 +432,13 @@ alt="Closing animation"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0B1220,100:050505&height=140&section=footer&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0a0520,100:050505&height=140&section=footer&animation=fadeIn"
 width="100%"
 />
 
 <sub>
 
-**Jhon Brayn Rafer** · Built with curiosity and code.
+**JHON BRAYN RAFER** · Engineered with precision and code.
 
 </sub>
 
@@ -484,7 +446,7 @@ width="100%"
 
 <sub>
 
-`BUILD` · `LEARN` · `IMPROVE` · `SHIP`
+`INITIALIZE` · `DECODE` · `REFINE` · `DEPLOY`
 
 </sub>
 
