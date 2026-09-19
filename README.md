@@ -40,50 +40,60 @@
 
 ---
 
-### `[01]` // PILOT_TELEMETRY.SYS
+### `[01]` // PILOT_TELEMETRY.SYS // 3D WORDMARK & ASCII RECON
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<!-- ANIMATED CYBERNETIC PROFILE CARD (3D WORDMARK + ASCII PORTRAIT + NEOFETCH) -->
+<a href="https://github.com/hideANDseeksA">
+  <img 
+    src="https://raw.githubusercontent.com/hideANDseeksA/hideANDseeksA/main/assets/cyber-profile-card.svg" 
+    alt="Cybernetic Profile Card with 3D Wordmark and ASCII Portrait" 
+    width="100%" 
+  />
+</a>
 
-#### ◈ BIOMETRIC IDENTIFIER
-```yaml
-DESIGNATION   : Jhon Brayn Rafer
-CODENAME      : hideANDseeksA
-ROLE          : Cybernetic Architect / Systems & Web Engineer
-CORE_SPECIALIZATION:
-  - Enterprise GIS & Environmental Tracking
-  - Distributed Backends & Asynchronous Microservices
-  - Multi-Threaded Low-Level Network Reconnaissance
-  - Relational Schema Engineering & Containerization
-MISSION_PHILOSOPHY:
-  - High-efficiency logic over bloated architectures
-  - Zero-latency protocols & resilient fault tolerance
-```
+<br/><br/>
 
-</td>
-<td width="50%" valign="top">
+<details>
+<summary><b>[ CLICK TO INSPECT RAW TERMINAL TELEMETRY &amp; ASCII MATRIX ]</b></summary>
+<br/>
 
-#### ◈ CORE RECONNAISSANCE MATRIX
 ```text
-SYSTEM INTEGRITY DIAGNOSTIC
-═══════════════════════════════════════════════
-[■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■░░] 94% SYNCED
-
-[⚡] Full-Stack Protocols (Next.js/React/Node) : OPERATIONAL
-[🛰️] Spatial Telemetry & GIS Mapping        : LOCKED
-[🛡️] Low-Level Sockets & Network Recon (C#)  : ARMED
-[🧠] Algorithmic Data Ingestion (Python)      : ACTIVE
-[🚀] Continuous Orbital Deployment           : AUTOMATED
-═══════════════════════════════════════════════
-STATUS: COMBAT-READY // PRODUCTION GRADE
+ ╔═════════════════════════════════════════════════════════════════════════════════════════════════╗
+ ║  3D WORDMARK MATRIX // IDENTIFIER NODE                                                          ║
+ ║                                                                                                 ║
+ ║   ██╗  ██╗██╗██████╗ ███████╗ █████╗ ███╗   ██╗██████╗ ███████╗███████╗██╗  ██╗ █████╗          ║
+ ║   ██║  ██║██║██╔══██╗██╔════╝██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔════╝██║ ██╔╝██╔══██╗         ║
+ ║   ███████║██║██║  ██║█████╗  ███████║██╔██╗ ██║██║  ██║███████╗█████╗  █████═╝ ███████║         ║
+ ║   ██╔══██║██║██║  ██║██╔══╝  ██╔══██║██║╚██╗██║██║  ██║╚════██║██╔══╝  ██╔═██╗ ██╔══██║         ║
+ ║   ██║  ██║██║██████╔╝███████╗██║  ██║██║ ╚████║██████╔╝███████║███████╗██║ ╚██╗██║  ██║         ║
+ ║   ╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝         ║
+ ╠═════════════════════════════════════════════════════════════════════════════════════════════════╣
+ ║  ASCII AVATAR PORTRAIT               ║  SYSTEM TELEMETRY (NEOFETCH)                             ║
+ ║  ──────────────────────────────────  ║  ──────────────────────────────────────────────────────  ║
+ ║  ######%%%%##%%%%%%%%#%#########***  ║  PILOT     : Jhon Brayn Rafer (hideANDseeksA)            ║
+ ║  ###%%%%%%%%%%@%%###%%#@%%%%%%%%###  ║  ROLE      : Cybernetic Architect & Systems Engineer     ║
+ ║  %%%%%@@@%%%##%#%%#**##%%%%@@%%%%@@  ║  HOST      : Orbital Matrix Node #7G [x86_64-win/linux]  ║
+ ║  %%@@@@@@#%######*###**#%%@@@@@@@@@  ║  SHELL     : zsh 5.9 // PowerShell 7.4.x                 ║
+ ║  @@@@@@@@####*###*%###%*#%%%%@@@@@@  ║  UPTIME    : 414 Commits / 53 Weeks Intercepted          ║
+ ║  @@@@@@@%###*=##*###*###++%@%%@@@@@  ║  DEFENSE   : Orbital Space Shooter Cannon [ARMED]        ║
+ ║  @@@@@@@%*++=+#***-#*+*##=##@@@@@@@  ║  PROJECTS  : 14 Public Mission Repositories Tracked      ║
+ ║  @@@@@@@%=+++#++#+=+++**##%@@@@@@@@  ║  SYNTAX    : TypeScript, Python, C#, JavaScript, SQL     ║
+ ║  @@@@@@@#+==#=:+#=+#=-+*+*@@@@@@@@@  ║  STACKS    : Next.js 15, FastAPI, .NET, PostgreSQL       ║
+ ║  @@@@@@@## [◉] -:-----:- [◉] @@@@@@  ║  SERVICES  : Docker, Prisma, Supabase, Leaflet GIS      ║
+ ║  @@@@@@@## .-##-=#-=#=::###@@@@@@@@  ║  DOMAIN    : Unlimited Void // High-Concurrency Logic    ║
+ ║  @@@@@##+    #########:  -##@@@@@@@  ║  STATUS    : [ ONLINE • SHIELDS 100% • SENSORS LOCKED ]  ║
+ ║  @@@@##:     .##*+++##    :##@@@@@@  ║                                                          ║
+ ║  @@@#+-       :=#++#-       +##@@@@  ║  MISSION DIRECTIVE:                                      ║
+ ║  %##+          .-#-           +#@@@  ║  Architect resilient logic. Eliminate bloat. Ship fast.  ║
+ ║  %#-           .#-:            ###@  ║                                                          ║
+ ║  =              ::.             -#@  ║  [●] [●] [●] [●] [●] [●] [●] [●] [●] [●]                 ║
+ ║                 ...##             -  ║                                                          ║
+ ╚═════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-</tr>
-</table>
+</details>
 
 </div>
 
