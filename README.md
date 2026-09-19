@@ -1,43 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CYBERNETIC COMMAND UPLINK                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:081326,75:005273,100:00e5ff&height=260&section=header&text=JHON%20BRAYN%20RAFER&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CYBERNETIC%20ARCHITECT%20%E2%80%A2%20FULL-STACK%20%26%20SYSTEMS%20ENGINEER&descAlignY=62&descSize=16&animation=fadeIn"
-  width="100%"
-  alt="Cybernetic Header Banner"
-/>
-
-<br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=%3E+Uplink+established.+Access+granted.;%3E+Architecting+resilient+full-stack+ecosystems...;%3E+Engaging+space-shooter+contribution+interceptor...;%3E+Next.js+%7C+TypeScript+%7C+Python+%7C+C%23+%7C+PostgreSQL;%3E+Build.+Defend.+Automate.+Deploy."
-  alt="Dynamic Cyber Typing Telemetry"
-/>
-
-<br/><br/>
-
-<!-- SYSTEM STATUS PILLS -->
-[![System Status](https://img.shields.io/badge/SYSTEM_CORE-ONLINE-00F5FF?style=for-the-badge&logo=statuspal&logoColor=050505&labelColor=050505)](https://github.com/hideANDseeksA)
-[![Matrix Uplink](https://img.shields.io/badge/MATRIX_NODE-ACTIVE-00E5FF?style=for-the-badge&logo=matrix&logoColor=050505&labelColor=050505)](https://github.com/hideANDseeksA)
-[![Security Protocol](https://img.shields.io/badge/DEFENSE_SHIELD-100%25-00F5FF?style=for-the-badge&logo=shield&logoColor=050505&labelColor=050505)](https://github.com/hideANDseeksA)
-[![Optical Sensors](https://komarev.com/ghpvc/?username=hideANDseeksA&style=for-the-badge&color=00F5FF&labelColor=050505&label=OPTICAL_SENSORS)](https://github.com/hideANDseeksA)
-
-<br/><br/>
-
-```text
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   ◈ DIRECTIVE: ARCHITECT MISSION-CRITICAL SYSTEMS & SHIP RESILIENT SOFTWARE   ║
-║   ◈ OPERATIONAL MODE: ADVANCED PROTOCOLS • DEEP SYSTEMS • CONTINUOUS DEPLOY  ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ---
 
 ### `[01]` // PILOT_TELEMETRY.SYS // 3D WORDMARK & ASCII RECON
