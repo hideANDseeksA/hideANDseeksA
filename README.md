@@ -44,14 +44,14 @@
 
 <div align="center">
 
-<!-- ANIMATED CYBERNETIC PROFILE CARD (3D WORDMARK + ASCII PORTRAIT + NEOFETCH) -->
-<a href="https://github.com/hideANDseeksA">
-  <img 
-    src="https://raw.githubusercontent.com/hideANDseeksA/hideANDseeksA/main/assets/cyber-profile-card.svg" 
-    alt="Cybernetic Profile Card with 3D Wordmark and ASCII Portrait" 
-    width="100%" 
-  />
-</a>
+<p><code>hideANDseeksA@github ~ $ ./maintainer.sh</code></p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=hideANDseeksA&amp;theme=neon&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179883382%3Fu%3D38af3d78526d48fea116620b5a8cf2bb6d374ec6%26v%3D4&amp;style=terminal&amp;v=oss-system-scan-1&amp;mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=hideANDseeksA&amp;theme=neon&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179883382%3Fu%3D38af3d78526d48fea116620b5a8cf2bb6d374ec6%26v%3D4&amp;style=terminal&amp;v=oss-system-scan-1&amp;mode=dark" width="860" alt="@hideANDseeksA animated maintainer system scan" />
+</picture>
+</p>
 
 <br/><br/>
 
